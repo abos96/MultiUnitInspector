@@ -1,0 +1,1 @@
+Initialyze git directory
